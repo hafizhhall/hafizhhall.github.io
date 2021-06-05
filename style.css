@@ -7,6 +7,13 @@
 
 /* Akhir Navbar */
 
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: black;
+  align-items: center;
+}
+
 /* My Fonts */
 .navbar-text,
 .info,
@@ -90,4 +97,12 @@
     margin-top: -80px;
     height: 560px;
   }
+}
+
+iframe {
+  width: 350px;
+  height: 350px;
+  margin: 0 auto;
+  background-color: #777;
+  display: block;
 }
